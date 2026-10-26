@@ -5,7 +5,7 @@
 | **Title** | Vorbote — Design Document |
 | **Version** | 2.0.0 |
 | **Date** | 2026-10-26 |
-| **Status** | Draft |
+| **Status** | Approved |
 | **Governs** | All later documents (Doc 2 Technical Spec, Doc 3 Roadmap) |
 | **Basis** | Change-driven opportunity discovery — fully defined in §1.2 (self-contained; no external document assumed) |
 
