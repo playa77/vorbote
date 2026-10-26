@@ -14,7 +14,7 @@
 | Version | Date | Status | Changes |
 |---|---|---|---|
 | 1.0.0 | 2026-10-26 | Rejected | Initial issue |
-| 2.0.0 | 2026-10-26 | Draft | Complete rework after operator rejection: (1) document made fully self-contained — the discovery method is now defined inline in §1.2; all external-document references removed; (2) §12 Initial Source Register added with exact endpoint URLs, verification status, and URL-change handling — exact initial provisioning is this document's committed task, not an open question; (3) dossier export fixed to Markdown/HTML only (confirmed); (4) session-digest artifact committed as a requirement (FR-33) and component responsibility; (5) open questions reduced to three implementation-time verifications, none architecture-gating; (6) §10 extended (D17, D18); (7) all opportunity-record and constraint terminology made self-contained (no "stage" jargon from any external source) |
+| 2.0.0 | 2026-10-26 | Approved | Complete rework after operator rejection: (1) document made fully self-contained — the discovery method is now defined inline in §1.2; all external-document references removed; (2) §12 Initial Source Register added with exact endpoint URLs, verification status, and URL-change handling — exact initial provisioning is this document's committed task, not an open question; (3) dossier export fixed to Markdown/HTML only (confirmed); (4) session-digest artifact committed as a requirement (FR-33) and component responsibility; (5) open questions reduced to three implementation-time verifications, none architecture-gating; (6) §10 extended (D17, D18); (7) all opportunity-record and constraint terminology made self-contained (no "stage" jargon from any external source) |
 
 ---
 
