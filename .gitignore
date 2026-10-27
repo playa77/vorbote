@@ -1,0 +1,53 @@
+# --- Secrets (server secrets file; never commit) ---
+.env
+.env.*
+!.env.example
+
+# --- Local server config (the committed example is config/settings.example.toml) ---
+config/settings.toml
+
+# --- Runtime state (if VORBOTE_HOME lives inside the checkout) ---
+*.db
+*.db-wal
+*.db-shm
+snapshots/
+reach-profile/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+wheels/
+
+# --- Virtual environments ---
+.venv/
+venv/
+
+# --- Testing & coverage ---
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# --- Client (Qt/PySide) local artifacts ---
+*.qmlc
+*.jsc
+
+# --- Editors / IDEs ---
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Local logs ---
+*.log
